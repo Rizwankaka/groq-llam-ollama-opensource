@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain_community
+groq
+langchain-groq
+langchain_core
+python-dotenv
+faiss-cpu
+beautifulsoup4
+bs4
+chromadb
+
